@@ -1,13 +1,13 @@
 h1
 {
-  font-family: 'Old English Text', 'Arial', 'sans-serif',
-  color: 'purple',
-  text-allign: 'center';
+  font-family: Old English Text, Arial, sans-serif;
+  color: purple;
+  text-allign: center;
 }
 
 p
 {
-  font-family: 'Comic Sans', 'Arial', 'sans-serif',
-  color: 'purple',
-  text-allign: 'center';
+  font-family: Comic Sans, Arial, sans-serif;
+  color: purple;
+  text-allign: center;
 }
