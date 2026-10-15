@@ -1,13 +1,13 @@
-h1
+p
 {
   font-family: Old English Text, Arial, sans-serif;
-  color: blue;
+  color: purple;
   text-allign: center;
 }
 
-p
+ol
 {
   font-family: Comic Sans, Arial, sans-serif;
-  color: purple;
+  color: blue;
   text-allign: center;
 }
