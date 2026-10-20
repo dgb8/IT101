@@ -11,3 +11,10 @@ li
   color: blue;
   text-align: left;
 }
+
+a
+{
+  font-size: 15px;
+  color: green;
+  text-align: center;
+}
